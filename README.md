@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-~pip install pylabelbase~ soon
+pip install pylabelbase
 ```
 
 
